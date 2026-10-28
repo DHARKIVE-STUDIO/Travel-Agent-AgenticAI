@@ -16,7 +16,7 @@ Fictional data only. Nothing is really booked.
 
 ## How to run
 
-1. Open `travel_helper_lessons.ipynb` in Google Colab (File > Upload notebook).
+1. Open `travel_helper_lesson.ipynb` in Google Colab (File > Upload notebook).
 2. Add your own NVIDIA API key in Colab's secrets (key icon in the sidebar), named `NVIDIA_API_KEY`. Turn on notebook access.
 3. Run the cells top to bottom.
 4. Type questions at the prompt. Commands: `reset`, `save <preference>`, `prefs`, `forget`, `log`, `quit`. Start with `team ` for three helpers. Add `plan` to make a plan first.
